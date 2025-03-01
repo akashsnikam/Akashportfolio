@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Full stack Web Developer - Intern",
+    "organisation": "Next24 Technology ltd (AICTE)",
+    "startDate": "March 2024",
+    "endDate": "May 2024",
+    "location": "Online",
+    "experiences": [
+      " Engaged in full-stack web development using the MERN stack",
+      "create an online voting system project"
+    ],
+    "imageSrc": "company/next24tech.jpg"
+  },
+  {
+    "id": 2,
+    "role": "Front End Web Developer - Intern",
+    "organisation": "TechnoHacks EduTech ",
+    "startDate": "July 2023",
+    "endDate": "Aug 2023",
+    "location": "Online",
+    "experiences": [
+      "Completed a frontend web development course",
+      "Gaining proficiency in HTML, CSS, JavaScript, and Bootstrap"
+    ],
+    "imageSrc": "company/techno hack.png"
+  },
+  {
+    "id": 3,
+    "role": "Basics of Python - Intern",
+    "organisation": "Techno Spice Infotech",
+    "startDate": "Aug, 2021",
+    "endDate": "Nov, 2021",
+    "location": "Online",
+    "experiences": [
+      " Gained hands-on experience in Python programming",
+      "Learned fundamental concepts, syntax, and best practices for writing efficient Python code."
+    ],
+    "imageSrc": "company/technoSpice.jpg"
+  }
+]

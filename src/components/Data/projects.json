@@ -1,0 +1,42 @@
+[
+  {
+    "key": 1,
+    "title": "MERN E-Commerce",
+    "imageSrc": "/assets/project/commerce.png",
+    "description": "I have built a full-stack eCommerce website using the MERN stack.",
+    "demo": "https://ecommerceapp-u8w2.onrender.com/",
+    "source": "https://github.com/akashsnikam/Ecommerceapp"
+  },
+  {
+    "key": 2,
+    "title": "React Calculator",
+    "imageSrc": "/assets/project/calc.png",
+    "description": " a simple React calculator with a clean UI using React and Tailwind CSS.",
+    "demo": "https://akashsnikam.github.io/Reactcalculator/",
+    "source": "https://github.com/akashsnikam/Reactcalculator"
+  },
+  {
+    "key": 3,
+    "title": "CS Wedding Planer",
+    "imageSrc": "/assets/project/cs-wedding.png",
+    "description": "Developed a wedding planning with  HTML, CSS, JS, & Bootstrap",
+    "demo": "https://akashsnikam.github.io/csweddingplaner/",
+    "source": "https://github.com/akashsnikam/cs-wedding-planner-"
+  },
+  {
+    "key": 4,
+    "title": "TechnoChamp ",
+    "imageSrc": "/assets/project/technohack.png",
+    "description": "TechnoChamp is an online platform that provides coaching & training",
+    "demo": "https://akashsnikam.github.io/TechnoChampSolution/",
+    "source": "https://github.com/akashsnikam"
+  },
+  {
+    "key": 5,
+    "title": "Portfolio ",
+    "imageSrc": "/assets/project/port.png",
+    "description": "I have created a personal portfolio website using the React.js. ",
+    "demo": "https://akashsnikam.github.io/TechnoChampSolution/",
+    "source": "https://github.com/akashsnikam"
+  }
+]
