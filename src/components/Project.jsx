@@ -19,7 +19,7 @@ const Projects = () => {
             >
               <div className="img-container d-flex justify-content-center align-items-center p-3">
                 <img
-                  src={data.imageSrc}
+                  src={`${import.meta.env.BASE_URL}${data.imageSrc}`}
                   className="card-img-top"
                   alt={data.title}
                   style={{
